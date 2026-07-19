@@ -13,9 +13,8 @@ Computer Science student at the **University of Bucharest**. I like building sof
 
 ## Currently
 
-- 🔨 Dockerizing **Fermetta** — the cart logic now lives in a service layer covered by **15 xUnit tests**, running in **GitHub Actions CI** on every push
-- 📱 Making **Ledger Sudoku** work everywhere — mobile-friendly web version, plus Linux and macOS desktop builds alongside Windows
 - 🗃️ Generalizing **Oshiire** beyond Reddit — additional ingestion sources and broader content types, on top of the source-agnostic pipeline it was designed around
+- 📱 Developing GUI for **Treasures of the Oceans**
 - 🎓 Final year @ FMI, University of Bucharest
 - 💼 Looking for **software engineering internships & junior roles** in Bucharest — strongest on backend/full-stack, comfortable anywhere in the stack
 
